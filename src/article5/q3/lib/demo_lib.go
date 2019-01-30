@@ -1,0 +1,4 @@
+package lib
+
+
+var Name = ""
